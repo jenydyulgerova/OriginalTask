@@ -1,7 +1,7 @@
 # OriginalTask
 
 This app calculates commissions based on the currency exchange rates specified remotely. 
-The URL to the list is set in the .env file.
+The URL pointing to the list is set in the .env file.
 
 The tests use exchange rates specified in the .env file.
 
